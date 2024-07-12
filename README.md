@@ -1,5 +1,3 @@
-# Harish Chat App
-# React + Vite
 # ChatApp using MERN Stack
 This project is a real-time chat application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to create accounts, join chat rooms, and exchange messages in real-time.
 
@@ -11,8 +9,6 @@ Currently, two official plugins are available:
 - **Real-time Messaging**: Messages update instantly for all users in a chat room.
 - **Responsive UI**: The application is designed to work seamlessly across desktop and mobile devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 ## Technologies Used
 
 - **Frontend**: React.js, Socket.io-client for real-time messaging
