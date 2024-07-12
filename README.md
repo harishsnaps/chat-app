@@ -1,7 +1,6 @@
 # ChatApp using MERN Stack
 This project is a real-time chat application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to create accounts, join chat rooms, and exchange messages in real-time.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 ## Features
 
 Currently, two official plugins are available:
